@@ -11,6 +11,8 @@ namespace ConsoleApp2
         }
         static void Main(string[] args)  
         {
+            // GitHub Pull
+            
             Marine marine = new Marine();
             Firebet firebet = new Firebet();
             Ghost ghost = new Ghost();
